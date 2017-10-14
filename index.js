@@ -13,7 +13,7 @@ var defaultSettings = {
   rhythmicVariety: [0, 0.75], // Likelihood of rhythmic variety, number (0 to 1) or range
   useSixteenths: true, // Use sixteenth notes
   onlyEighthRests: false, // If true, don't put rests in triplet or sixteenth blocks
-  range: ['C3', 'C5'], // Note range
+  range: ['C4', 'C6'], // Note range
   sections: null, // Which sections to improvise over, null -> song default
   repeat: 1, // How many times to repeat the form
   cadence: true // If true, return to the first chord at the end
